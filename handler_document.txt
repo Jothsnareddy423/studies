@@ -1,1 +1,2 @@
-1.Handlers are used to resue a code 
+1.Handlers are used to re
+sue a code 
